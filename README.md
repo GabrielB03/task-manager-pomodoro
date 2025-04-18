@@ -31,12 +31,12 @@ The **Task Manager + Pomodoro Timer** is a productivity desktop application that
    ```
    
 4. (Recommended) Create a virtual environment and activate it:
-  ```bash
-  python -m venv venv
-  # On Windows
-  venv\Scripts\activate
-  # On macOS/Linux:
-  source venv/bin/activate
+   ```bash
+     python -m venv venv
+     # On Windows
+     venv\Scripts\activate
+     # On macOS/Linux:
+     source venv/bin/activate
   ```
 
 5. Install dependencies:
