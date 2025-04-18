@@ -22,7 +22,7 @@ The **Task Manager + Pomodoro Timer** is a productivity desktop application that
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager-pomodoro.git
+   git clone https://github.com/GabrielB03/task-manager-pomodoro.git
    ```
    
 3. Navigate to the project folder:
